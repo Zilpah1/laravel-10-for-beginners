@@ -1,3 +1,5 @@
-#Laravel 10 Course
+# Laravel 10 Course
 
-##Get this course from Zilpah Youtube Channel
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Get this code from zilpah youtube channel
